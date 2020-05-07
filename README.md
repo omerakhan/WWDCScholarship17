@@ -1,3 +1,4 @@
 # WWDCScholarship17
 
-Learning Playground with games to teach kids computer science fundamentals
+Swift Playground
+  - teaches kids computer science fundamentals with interactive learning and games
