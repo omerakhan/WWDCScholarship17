@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ImageReference</key>
+	<string>wwdc17.jpg</string>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Omer&apos;s Playgroundbook</string>
+	<key>ContentIdentifier</key>
+	<string>com.omerkhan.Playgroundbook</string>
+	<key>DeploymentTarget</key>
+	<string>ios10.0</string>
+	<key>Chapters</key>
+	<array>
+		<string>01-ShapeSearch.playgroundchapter</string>
+		<string>Chapter 2-BinarySearch.playgroundchapter</string>
+		<string>Chapter3.playgroundchapter</string>
+		<string>Chapter 4.playgroundchapter</string>
+		<string>Chapter5.playgroundchapter</string>
+	</array>
+</dict>
+</plist>
