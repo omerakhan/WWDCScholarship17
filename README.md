@@ -1,3 +1,3 @@
 # WWDCScholarship17
 
-Learning Application with games to teach kids computer science fundamentals
+Learning Playground with games to teach kids computer science fundamentals
